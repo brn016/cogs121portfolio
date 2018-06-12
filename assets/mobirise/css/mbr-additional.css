@@ -2270,10 +2270,51 @@ body {
   width: 100%;
   overflow: hidden;
 }
+.cid-qUHXR09Amz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qUHXR09Amz .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qUHYcUFTrR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qUHYcUFTrR .mbr-text,
+.cid-qUHYcUFTrR blockquote {
+  color: #767676;
+}
+.cid-qUHXOmTIB4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #55b4d4;
+  background: linear-gradient(45deg, #55b4d4, #cccccc);
+}
+.cid-qUHXOmTIB4 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qUHXOmTIB4 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qUHYe7D3rd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qUHYe7D3rd .mbr-text,
+.cid-qUHYe7D3rd blockquote {
+  color: #767676;
+}
+.cid-qUHYe7D3rd DIV {
+  text-align: left;
+}
 .cid-qU5o4rIcHV {
   padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #cccccc;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
 .cid-qU5o4rIcHV .mbr-section-subtitle {
   color: #767676;
@@ -2691,9 +2732,9 @@ body {
   height: 100%;
 }
 .cid-qU5ojp3bFq {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #cccccc;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
 .cid-qU5ojp3bFq .mbr-section-subtitle {
   color: #767676;
@@ -2719,26 +2760,6 @@ body {
   padding-top: 2rem;
 }
 .cid-qU5ooyHaVH .card-wrapper {
-  height: 100%;
-}
-.cid-qUk9cELCqq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qUk9cELCqq h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qUk9cELCqq p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qUk9cELCqq .card-box {
-  padding-top: 2rem;
-}
-.cid-qUk9cELCqq .card-wrapper {
   height: 100%;
 }
 .cid-qTkzRZLJNu .navbar {
@@ -3131,7 +3152,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qU3BFGOn0h {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
